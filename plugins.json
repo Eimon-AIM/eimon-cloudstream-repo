@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
-        "fileHash": "sha256-597d963f397675e4c4c370f30dc1054101c28f4bfda5c7ca498a42fa7645662d",
+        "fileHash": "sha256-473195761d656e3d47a370b47d642ec50301e8f98a5298c15a246b61e4e566bb",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Eimon-AIM/eimon-cloudstream-repo",
-        "fileSize": 57818,
+        "fileSize": 131120,
         "status": 1,
         "language": "en",
         "authors": [
@@ -14,10 +14,31 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 7,
-        "internalName": "AniKotoAccount",
-        "description": "Anikoto browsing, search, account Continue Watching and optional progress uploads. Install Phisher's AniKoto for playback.",
-        "url": "https://raw.githubusercontent.com/Eimon-AIM/eimon-cloudstream-repo/builds/AniKotoAccount.cs3",
-        "name": "AniKotoAccount"
+        "version": 3,
+        "internalName": "AniKoto",
+        "description": "AniKoto: sub/dub playback, account lists, optional sync and session diagnostics. Cloud title progress and latest-episode resume on compatible CloudStream hosts; stock-host fallback retained.",
+        "url": "https://raw.githubusercontent.com/Eimon-AIM/eimon-cloudstream-repo/builds/AniKoto.cs3",
+        "name": "AniKoto"
+    },
+    {
+        "iconUrl": "https://www.qrmzi.tv/wp-content/uploads/2025/10/Qrmzi-Favicon.png",
+        "fileHash": "sha256-f5696fde5dbba945ccde78dd2cfb5dbacefe1c1bbcd4f1fcc2773472f13ba422",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Eimon-AIM/eimon-cloudstream-repo",
+        "fileSize": 47773,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Aimon"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "Qrmzi",
+        "description": "\u0642\u0631\u0645\u0632\u064a: \u0627\u0644\u0645\u0633\u0644\u0633\u0644\u0627\u062a \u0648\u0627\u0644\u0623\u0641\u0644\u0627\u0645 \u0627\u0644\u062a\u0631\u0643\u064a\u0629\u060c \u0627\u0644\u0628\u062d\u062b \u0648\u0633\u064a\u0631\u0641\u0631\u0627\u062a \u0627\u0644\u0645\u0634\u0627\u0647\u062f\u0629 \u0627\u0644\u0645\u062a\u0639\u062f\u062f\u0629. Qrmzi Turkish series and movies with Arabic subtitles/audio when supplied by the site.",
+        "url": "https://raw.githubusercontent.com/Eimon-AIM/eimon-cloudstream-repo/builds/Qrmzi.cs3",
+        "name": "Qrmzi"
     }
 ]
