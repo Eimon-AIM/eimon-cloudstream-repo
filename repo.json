@@ -1,0 +1,9 @@
+{
+  "name": "Eimon Cloudstream Repo",
+  "description": "Eimon's Cloudstream extensions",
+  "manifestVersion": 1,
+  "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Eimon-AIM/eimon-cloudstream-repo/builds/plugins.json"
+  ]
+}
